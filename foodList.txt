@@ -1,0 +1,16 @@
+Food ID,Food Name,Category,Spiciness,Price
+101,Samosa,Veg,Mild,50
+102,Momo,Buff,Medium,120
+103,Sausage,Chicken,Hot,40
+104,Fries,Veg,Mild,90
+105,Biryani,Mutton,Mild,250
+106,Tikka Masala,Chicken,Medium,300
+107,Caesar Salad,Salad,Mild,100
+108,Choila,Buff,Extra Hot,100
+109,Greek Salad,Salad,Medium,150
+110,Kebab,Mutton,Medium,300
+111,Lentil Soup,Veg,Mild,200
+112,Sekuwa,Buff,Hot,150
+113,Buffalo Wings,Chicken,Extra Hot,200
+114,Club Salad,Salad,Mild,350
+115,Burger,Buff,Medium,280
